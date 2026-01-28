@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DriveHub Browser - Test Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0; padding: 20px; min-height: 100vh;
+            display: flex; align-items: center; justify-content: center;
+            color: white;
+        }
+        .container { 
+            max-width: 600px; text-align: center; 
+            background: rgba(255,255,255,0.1); padding: 40px; border-radius: 20px;
+            backdrop-filter: blur(10px);
+        }
+        h1 { font-size: 2.5em; margin-bottom: 20px; }
+        .status { 
+            background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; 
+            margin: 20px 0; font-family: monospace;
+        }
+        button { 
+            background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3);
+            color: white; padding: 12px 20px; margin: 10px; border-radius: 25px;
+            cursor: pointer; font-size: 16px; transition: all 0.3s;
+        }
+        button:hover { background: rgba(255,255,255,0.3); transform: translateY(-2px); }
+        .links { margin-top: 30px; }
+        a { color: #ffd700; text-decoration: none; margin: 0 10px; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚗 DriveHub Browser</h1>
+        <p><strong>Congratulations!</strong> Your browser is working correctly!</p>
+        
+        <div class="status">
+            <strong>Status:</strong> ✅ WebView Loaded Successfully<br>
+            <strong>Time:</strong> <span id="time"></span><br>
+            <strong>User Agent:</strong> <span id="userAgent"></span>
+        </div>
+        
+        <div>
+            <button onclick="testJavaScript()">Test JavaScript</button>
+            <button onclick="testLocalStorage()">Test Storage</button>
+            <button onclick="changeBackground()">Change Theme</button>
+        </div>
+        
+        <div class="links">
+            <p><strong>Try these test URLs:</strong></p>
+            <a href="https://www.google.com">Google</a>
+            <a href="https://github.com/kododake/AABrowser">GitHub</a>
+            <a href="file:///android_asset/test_page.html">Reload This Page</a>
+        </div>
+        
+        <p style="margin-top: 30px; font-size: 14px; opacity: 0.8;">
+            This local test page confirms your browser's WebView is functioning properly.<br>
+            If you can see this page, the core browser functionality is working!
+        </p>
+    </div>
+    
+    <script>
+        // Update time
+        function updateTime() {
+            document.getElementById('time').textContent = new Date().toLocaleString();
+        }
+        updateTime();
+        setInterval(updateTime, 1000);
+        
+        // Show user agent
+        document.getElementById('userAgent').textContent = navigator.userAgent.substring(0, 80) + '...';
+        
+        // Test functions
+        function testJavaScript() {
+            alert('🎉 JavaScript is working perfectly!');
+        }
+        
+        function testLocalStorage() {
+            try {
+                localStorage.setItem('test', 'DriveHub Browser Test');
+                const value = localStorage.getItem('test');
+                alert('✅ Local Storage is working! Stored: ' + value);
+                localStorage.removeItem('test');
+            } catch (e) {
+                alert('❌ Local Storage test failed: ' + e.message);
+            }
+        }
+        
+        let themeIndex = 0;
+        const themes = [
+            'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+            'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
+            'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
+            'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)'
+        ];
+        
+        function changeBackground() {
+            themeIndex = (themeIndex + 1) % themes.length;
+            document.body.style.background = themes[themeIndex];
+        }
+        
+        // Auto-test on load
+        console.log('DriveHub Browser test page loaded successfully!');
+    </script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            text-align: center;
+            background: rgba(255,255,255,0.1);
+            padding: 40px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+        }
+        h1 { font-size: 3em; margin-bottom: 20px; }
+        .search-box {
+            margin: 20px 0;
+        }
+        input[type="text"] {
+            width: 300px;
+            padding: 15px;
+            font-size: 16px;
+            border: none;
+            border-radius: 25px;
+            background: rgba(255,255,255,0.9);
+        }
+        button {
+            padding: 15px 30px;
+            font-size: 16px;
+            border: none;
+            border-radius: 25px;
+            background: #4285f4;
+            color: white;
+            cursor: pointer;
+            margin: 10px;
+        }
+        button:hover { background: #3367d6; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Google Style Test</h1>
+        <p>Your browser is working correctly!</p>
+        <div class="search-box">
+            <input type="text" placeholder="Search Google or type a URL" id="searchInput">
+        </div>
+        <button onclick="testFunction()">Test JavaScript</button>
+        <button onclick="simulateProgress()">Test Progress Bar</button>
+        <p id="status">Ready for testing!</p>
+    </div>
+
+    <script>
+        function testFunction() {
+            document.getElementById('status').textContent = 'JavaScript is working perfectly!';
+            document.getElementById('status').style.color = '#4CAF50';
+        }
+        
+        function simulateProgress() {
+            const status = document.getElementById('status');
+            status.textContent = 'Simulating page load progress...';
+            let progress = 0;
+            const interval = setInterval(() => {
+                progress += 10;
+                status.textContent = `Loading: ${progress}%`;
+                if (progress >= 100) {
+                    clearInterval(interval);
+                    status.textContent = 'Page loaded successfully!';
+                    status.style.color = '#4CAF50';
+                }
+            }, 200);
+        }
+        
+        document.getElementById('searchInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                document.getElementById('status').textContent = `Searching for: ${this.value}`;
+            }
+        });
+    </script>
+</body>
+</html>

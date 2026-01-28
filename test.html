@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AABrowser Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>AABrowser Test Page</h1>
+    <p>This is a local test page to verify the browser is working.</p>
+    <p>Current time: <span id="time"></span></p>
+    <button onclick="showAlert()">Test JavaScript</button>
+    <script>
+        document.getElementById('time').textContent = new Date().toLocaleString();
+        function showAlert() {
+            alert('JavaScript is working!');
+        }
+    </script>
+</body>
+</html>
