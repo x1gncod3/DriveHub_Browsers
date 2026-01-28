@@ -45,12 +45,12 @@
         <LinearLayout
             android:id="@+id/tabBar"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="@dimen/tab_bar_height"
             android:layout_gravity="top"
             android:orientation="horizontal"
             android:background="?attr/colorSurface"
             android:elevation="4dp"
-            android:padding="8dp"
+            android:padding="6dp"
             android:visibility="visible">
 
             <HorizontalScrollView
@@ -82,14 +82,14 @@
 
         <WebView
             android:id="@+id/webView"
-            android:layout_width="match_parent"
+            
             android:layout_height="match_parent"
             android:layout_marginTop="56dp"
             android:overScrollMode="never" />
 
         <FrameLayout
             android:id="@+id/fullscreenContainer"
-            android:layout_width="match_parent"
+            
             android:layout_height="match_parent"
             android:visibility="gone" />
 
@@ -97,20 +97,20 @@
 
     <FrameLayout
         android:id="@+id/menuOverlay"
-        android:layout_width="match_parent"
+        
         android:layout_height="match_parent"
         android:visibility="gone">
 
         <View
             android:id="@+id/menuOverlayScrim"
-            android:layout_width="match_parent"
+            
             android:layout_height="match_parent"
             android:background="#80000000"
             android:alpha="0" />
 
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/menuCard"
-            android:layout_width="match_parent"
+            
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             app:cardElevation="@dimen/menu_card_elevation"
@@ -257,7 +257,7 @@
                                     <com.google.android.material.textfield.TextInputEditText
                                         android:id="@+id/addressEdit"
                                         android:layout_width="0dp"
-                                        android:layout_height="wrap_content"
+                                        android:layout_height="@dimen/address_bar_height"
                                         android:layout_weight="1"
                                         android:layout_marginStart="12dp"
                                         android:layout_marginEnd="8dp"
@@ -266,9 +266,11 @@
                                         android:imeOptions="actionGo"
                                         android:inputType="textUri"
                                         android:singleLine="true"
-                                        android:textSize="15sp"
+                                        android:textSize="@dimen/address_bar_text_size"
                                         android:textColor="?attr/colorOnSurface"
-                                        android:textColorHint="?attr/colorOnSurfaceVariant" />
+                                        android:maxHeight="@dimen/address_bar_height"
+                                        android:scaleY="0.8"
+                                        android:scaleX="0.9" />
 
                                     <com.google.android.material.button.MaterialButton
                                         android:id="@+id/buttonClearAddress"
