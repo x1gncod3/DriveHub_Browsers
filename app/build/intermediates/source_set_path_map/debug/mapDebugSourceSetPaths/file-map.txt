@@ -1,0 +1,44 @@
+com.drivehub.browser.app-transition-1.5.0-0 C:\Users\IMS\.gradle\caches\9.1.0\transforms\0d014a680916e3f7d7201909e5c537db\workspace\transformed\transition-1.5.0\res
+com.drivehub.browser.app-startup-runtime-1.2.0-1 C:\Users\IMS\.gradle\caches\9.1.0\transforms\0dcdd2c5d9f680b97120dcd00a316f96\workspace\transformed\startup-runtime-1.2.0\res
+com.drivehub.browser.app-lifecycle-livedata-core-2.8.7-2 C:\Users\IMS\.gradle\caches\9.1.0\transforms\22ea2f93a5a469c566f023f2782f4eda\workspace\transformed\lifecycle-livedata-core-2.8.7\res
+com.drivehub.browser.app-activity-ktx-1.10.0-3 C:\Users\IMS\.gradle\caches\9.1.0\transforms\2641fb7074eea8cabd48a047b164d6a9\workspace\transformed\activity-ktx-1.10.0\res
+com.drivehub.browser.app-savedstate-ktx-1.2.1-4 C:\Users\IMS\.gradle\caches\9.1.0\transforms\264a0e5733e8dfd278f5823881c0be8a\workspace\transformed\savedstate-ktx-1.2.1\res
+com.drivehub.browser.app-emoji2-1.3.0-5 C:\Users\IMS\.gradle\caches\9.1.0\transforms\2f2ffb5edf6b6586c6ef5625e008f90f\workspace\transformed\emoji2-1.3.0\res
+com.drivehub.browser.app-lifecycle-viewmodel-ktx-2.8.7-6 C:\Users\IMS\.gradle\caches\9.1.0\transforms\38034282691326543dd2e049205f4511\workspace\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.drivehub.browser.app-coordinatorlayout-1.1.0-7 C:\Users\IMS\.gradle\caches\9.1.0\transforms\41bc4772dfdeee8f4567fd8bc8a64294\workspace\transformed\coordinatorlayout-1.1.0\res
+com.drivehub.browser.app-app-1.7.0-8 C:\Users\IMS\.gradle\caches\9.1.0\transforms\5962405a1c1512ca0c1158f7fbf8d889\workspace\transformed\app-1.7.0\res
+com.drivehub.browser.app-profileinstaller-1.4.0-9 C:\Users\IMS\.gradle\caches\9.1.0\transforms\5e7ed6ece85ce5ac8300b7b577425dce\workspace\transformed\profileinstaller-1.4.0\res
+com.drivehub.browser.app-core-runtime-2.2.0-10 C:\Users\IMS\.gradle\caches\9.1.0\transforms\65c5d9c7c37cf3a864e98f64dd385af9\workspace\transformed\core-runtime-2.2.0\res
+com.drivehub.browser.app-cardview-1.0.0-11 C:\Users\IMS\.gradle\caches\9.1.0\transforms\731c198d439d8237587707fbe52839f3\workspace\transformed\cardview-1.0.0\res
+com.drivehub.browser.app-lifecycle-viewmodel-savedstate-2.8.7-12 C:\Users\IMS\.gradle\caches\9.1.0\transforms\75878bc78be34e3ab159ccb7be58ecff\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.drivehub.browser.app-core-ktx-1.15.0-13 C:\Users\IMS\.gradle\caches\9.1.0\transforms\7955bc9b9ed863e162a4cbb925af71b6\workspace\transformed\core-ktx-1.15.0\res
+com.drivehub.browser.app-media-1.6.0-14 C:\Users\IMS\.gradle\caches\9.1.0\transforms\7b7d951e260e334de5c3bfeafe474b17\workspace\transformed\media-1.6.0\res
+com.drivehub.browser.app-recyclerview-1.2.1-15 C:\Users\IMS\.gradle\caches\9.1.0\transforms\7c53afcf9710a203160e4366cec7eb74\workspace\transformed\recyclerview-1.2.1\res
+com.drivehub.browser.app-graphics-shapes-release-16 C:\Users\IMS\.gradle\caches\9.1.0\transforms\869dc341a65627ccc6a5e080d7c905d9\workspace\transformed\graphics-shapes-release\res
+com.drivehub.browser.app-core-1.15.0-17 C:\Users\IMS\.gradle\caches\9.1.0\transforms\8d40b9bd5d15501b1ca62209c6a66a80\workspace\transformed\core-1.15.0\res
+com.drivehub.browser.app-lifecycle-runtime-ktx-release-18 C:\Users\IMS\.gradle\caches\9.1.0\transforms\8f8aeea51e6ddaeacac625525976fac8\workspace\transformed\lifecycle-runtime-ktx-release\res
+com.drivehub.browser.app-savedstate-1.2.1-19 C:\Users\IMS\.gradle\caches\9.1.0\transforms\9e38ecff9594b6f6ee1a6dbb4eee8847\workspace\transformed\savedstate-1.2.1\res
+com.drivehub.browser.app-viewpager2-1.0.0-20 C:\Users\IMS\.gradle\caches\9.1.0\transforms\9ef83faa90f5c010a7761d1ccd2002ac\workspace\transformed\viewpager2-1.0.0\res
+com.drivehub.browser.app-emoji2-views-helper-1.3.0-21 C:\Users\IMS\.gradle\caches\9.1.0\transforms\a3525ba23d5ec3f451f2b5448a09a055\workspace\transformed\emoji2-views-helper-1.3.0\res
+com.drivehub.browser.app-appcompat-resources-1.7.1-22 C:\Users\IMS\.gradle\caches\9.1.0\transforms\a517237982f1142691f1347341b9b851\workspace\transformed\appcompat-resources-1.7.1\res
+com.drivehub.browser.app-lifecycle-livedata-2.8.7-23 C:\Users\IMS\.gradle\caches\9.1.0\transforms\a51ec0e5b49c4b99c62fc7f98e0291e1\workspace\transformed\lifecycle-livedata-2.8.7\res
+com.drivehub.browser.app-dynamicanimation-1.1.0-24 C:\Users\IMS\.gradle\caches\9.1.0\transforms\b85a3644c571f8aa3ceb4ce8e4d0eedb\workspace\transformed\dynamicanimation-1.1.0\res
+com.drivehub.browser.app-drawerlayout-1.1.1-25 C:\Users\IMS\.gradle\caches\9.1.0\transforms\bac24b038cc4e4367daecaee144d4585\workspace\transformed\drawerlayout-1.1.1\res
+com.drivehub.browser.app-appcompat-1.7.1-26 C:\Users\IMS\.gradle\caches\9.1.0\transforms\bb775400a5b129c34085b8cddbf2fe45\workspace\transformed\appcompat-1.7.1\res
+com.drivehub.browser.app-lifecycle-runtime-release-27 C:\Users\IMS\.gradle\caches\9.1.0\transforms\c97251912a97abda550fd98a1f279998\workspace\transformed\lifecycle-runtime-release\res
+com.drivehub.browser.app-material-1.13.0-28 C:\Users\IMS\.gradle\caches\9.1.0\transforms\cde19ba9005d93cf5de1b06e3f2f1cf4\workspace\transformed\material-1.13.0\res
+com.drivehub.browser.app-fragment-1.5.4-29 C:\Users\IMS\.gradle\caches\9.1.0\transforms\e4bdcd4b1c8ddb1457b9c0c9ec5883e8\workspace\transformed\fragment-1.5.4\res
+com.drivehub.browser.app-lifecycle-viewmodel-release-30 C:\Users\IMS\.gradle\caches\9.1.0\transforms\ecc5e8c0fec3ca56d8341efb0faedff9\workspace\transformed\lifecycle-viewmodel-release\res
+com.drivehub.browser.app-annotation-experimental-1.4.1-31 C:\Users\IMS\.gradle\caches\9.1.0\transforms\ede0dddbc54a1b27f47f851dd1b4e180\workspace\transformed\annotation-experimental-1.4.1\res
+com.drivehub.browser.app-tracing-1.2.0-32 C:\Users\IMS\.gradle\caches\9.1.0\transforms\f2b3ffcedfe1a8030678b5e70da1d9fe\workspace\transformed\tracing-1.2.0\res
+com.drivehub.browser.app-lifecycle-process-2.8.7-33 C:\Users\IMS\.gradle\caches\9.1.0\transforms\f3f2305a1e574e9b14e36bf48509091b\workspace\transformed\lifecycle-process-2.8.7\res
+com.drivehub.browser.app-lifecycle-livedata-core-ktx-2.8.7-34 C:\Users\IMS\.gradle\caches\9.1.0\transforms\f948d8df3f3b94a7b95bb94dc0613b9b\workspace\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.drivehub.browser.app-constraintlayout-2.2.1-35 C:\Users\IMS\.gradle\caches\9.1.0\transforms\f9a30286d30c15f2f0c370d5efd73222\workspace\transformed\constraintlayout-2.2.1\res
+com.drivehub.browser.app-activity-1.10.0-36 C:\Users\IMS\.gradle\caches\9.1.0\transforms\fe823eef21e990a3c08dc9a0391fa4eb\workspace\transformed\activity-1.10.0\res
+com.drivehub.browser.app-pngs-37 C:\Users\IMS\Downloads\DriveHub Browser\app\build\generated\res\pngs\debug
+com.drivehub.browser.app-resValues-38 C:\Users\IMS\Downloads\DriveHub Browser\app\build\generated\res\resValues\debug
+com.drivehub.browser.app-packageDebugResources-39 C:\Users\IMS\Downloads\DriveHub Browser\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.drivehub.browser.app-packageDebugResources-40 C:\Users\IMS\Downloads\DriveHub Browser\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.drivehub.browser.app-debug-41 C:\Users\IMS\Downloads\DriveHub Browser\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.drivehub.browser.app-debug-42 C:\Users\IMS\Downloads\DriveHub Browser\app\src\debug\res
+com.drivehub.browser.app-main-43 C:\Users\IMS\Downloads\DriveHub Browser\app\src\main\res

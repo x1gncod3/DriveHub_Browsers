@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_avd_car_animation.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/avd_car_animation.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/xml_backup_rules.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/layout_dialog_cleartext_confirmation.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/layout/dialog_cleartext_confirmation.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/animator_wheel_rotate_animator.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/animator/wheel_rotate_animator.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/xml_network_security_config.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_close.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_github.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_github.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_splash_background.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_computer_24.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/computer_24.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_lock_open_right_24.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/lock_open_right_24.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_bitcoin_qr.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/bitcoin_qr.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/xml_automotive_app_desc.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/animator_car_move_animator.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/animator/car_move_animator.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_drag_handle_background.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/drag_handle_background.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_warning_red.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_warning_red.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/layout_presentation_browser.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/layout/presentation_browser.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/layout_activity_settings.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_car_static.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_car_static.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_lock_24.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/lock_24.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_bookmark_add.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_bookmark_add.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/layout_splash_activity.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/layout/splash_activity.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_settings.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_share.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/share.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/drawable_ic_close_small.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/drawable/ic_close_small.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.drivehub.browser.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.drivehub.browser.app-debug-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.drivehub.browser.app-main-43:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

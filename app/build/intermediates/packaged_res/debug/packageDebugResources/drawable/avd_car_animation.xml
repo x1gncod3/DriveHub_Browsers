@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_car_static">
+    <target
+        android:name="car_group"
+        android:animation="@animator/car_move_animator" />
+    <target
+        android:name="wheel_front"
+        android:animation="@animator/wheel_rotate_animator" />
+    <target
+        android:name="wheel_rear"
+        android:animation="@animator/wheel_rotate_animator" />
+</animated-vector>

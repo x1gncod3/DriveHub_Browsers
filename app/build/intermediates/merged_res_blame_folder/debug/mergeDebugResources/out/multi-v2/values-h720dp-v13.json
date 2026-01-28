@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.drivehub.browser.app-mergeDebugResources-39:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\IMS\\.gradle\\caches\\9.1.0\\transforms\\bb775400a5b129c34085b8cddbf2fe45\\workspace\\transformed\\appcompat-1.7.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
