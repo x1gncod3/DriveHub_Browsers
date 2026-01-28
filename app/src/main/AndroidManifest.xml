@@ -46,6 +46,12 @@
         <meta-data
             android:name="com.google.android.gms.car.application"
             android:resource="@xml/automotive_app_desc" />
+        <meta-data
+            android:name="android.car.app.ALWAYS_ALLOW_UNOPTIMIZED"
+            android:value="true" />
+        <meta-data
+            android:name="android.car.app.DRIVING_MODE_OPTIMIZED"
+            android:value="true" />
         <activity
             android:name=".SplashActivity"
             android:exported="true"
