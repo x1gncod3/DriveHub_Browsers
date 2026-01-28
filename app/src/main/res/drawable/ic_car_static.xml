@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+    <group android:name="car_group">
+        <!-- Car body -->
+        <path
+            android:fillColor="#E74C3C"
+            android:pathData="M20,60c0,0 10,-20 30,-25s100,-5 120,0s30,25 30,25v20c0,0 -5,10 -15,10s-15,-10 -15,-10h-120c0,0 -5,10 -15,10s-15,-10 -15,-10v-20z" />
+        <!-- Car windows -->
+        <path
+            android:fillColor="#3498DB"
+            android:pathData="M40,45h30v15h-30z" />
+        <path
+            android:fillColor="#3498DB"
+            android:pathData="M130,45h30v15h-30z" />
+        <!-- Headlights -->
+        <path
+            android:fillColor="#F39C12"
+            android:pathData="M15,58h8v6h-8z" />
+        <path
+            android:fillColor="#F39C12"
+            android:pathData="M177,58h8v6h-8z" />
+    </group>
+    <!-- Car wheels -->
+    <path
+        android:name="wheel_front"
+        android:fillColor="#2C3E50"
+        android:pathData="M150,75c0,8.284 -6.716,15 -15,15s-15,-6.716 -15,-15s6.716,-15 15,-15s15,6.716 15,15z" />
+    <path
+        android:name="wheel_rear"
+        android:fillColor="#2C3E50"
+        android:pathData="M80,75c0,8.284 -6.716,15 -15,15s-15,-6.716 -15,-15s6.716,-15 15,-15s15,6.716 15,15z" />
+    <!-- Wheel details -->
+    <path
+        android:fillColor="#95A5A6"
+        android:pathData="M135,75c0,5.523 -4.477,10 -10,10s-10,-4.477 -10,-10s4.477,-10 10,-10s10,4.477 10,10z" />
+    <path
+        android:fillColor="#95A5A6"
+        android:pathData="M65,75c0,5.523 -4.477,10 -10,10s-10,-4.477 -10,-10s4.477,-10 10,-10s10,4.477 10,10z" />
+</vector>
